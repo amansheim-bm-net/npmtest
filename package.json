@@ -2,6 +2,7 @@
   "name": "@amansheim.bm.net/npmtest",
   "version": "1.0.0",
   "description": "Which npm commands run which npm scripts?",
+  "repository": "amansheim-bm-net/npmtest",
   "main": "index.js",
   "scripts": {
     "test": "test",
